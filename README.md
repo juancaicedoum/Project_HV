@@ -25,43 +25,26 @@ https://startbootstrap.com/
 
 _Herramientas utilizadas para crear el proyecto:_
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+* [Bootstrap](https://getbootstrap.com/) - El conjunto de herramientas de código abierto de front-end más popular del mundo.
+* [Bootstrap Templates & Themes](https://startbootstrap.com/themes) - Temas de Bootstrap gratuitos que están listos para personalizar y publicar. 
+* [Bootsnipp](https://bootsnipp.com/) - Elementos de diseño y fragmentos de código para el marco Bootstrap HTML/CSS/JS.
 
-## Contribuyendo 🖇️
+## Donde puedes verlo 📌
 
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
-
-## Versionado 📌
-
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+Use [GitHub Pages](https://pages.github.com/) como hosting del proyecto. Visitalo en [Portafolio Juan Caicedo](https://juancaicedoum.github.io)
 
 ## Autores ✒️
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Juan Manuel Caicedo Castaño** - [juancaicedoum](https://github.com/juancaicedoum)
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+## ¿Como puedes ayudarme? 🎁
 
-## Licencia 📄
-
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
-
-## Expresiones de Gratitud 🎁
-
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
+* Comenta a otros sobre este proyecto y mi perfil. 📢
+* Invitarme a una cerveza 🍺 acompañante perfecto para una reunión de negocios.
 * Da las gracias públicamente 🤓.
-* etc.
-
 
 
 ---
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
+⌨️ Proyecto realizado en el marco de la clase de Programación IV ❤️ por [juancaicedoum](https://github.com/juancaicedoum) 😊
